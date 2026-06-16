@@ -401,6 +401,7 @@ DER (Daily Energy Requirement):
 | [Sports Performance Analytics](https://www.coursera.org/specializations/sports-analytics) | Coursera / Michigan | Intermediate | Football, basketball, soccer analytics. Uses R. |
 | [Friends of Tracking Tutorial Series](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w) | YouTube | Intermediate | Free, practical. Covers pitch control, EPV, off-ball runs. |
 | [Data Visualization with ggplot2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) | DataCamp | Beginner | Essential for sports reporting and dashboarding in R. |
+| [Sports Analytics Research Agent](https://superhighway.walls.sh/guides/sports-research-agent) | Superhighway | Intermediate | Build a Python agent that researches teams, players, and competitions from live web data — Sports Reference stats, advanced metrics, injury reports, and transfer news — into structured JSON briefings. |
 
 ---
 
