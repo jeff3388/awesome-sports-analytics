@@ -415,6 +415,7 @@ DER (Daily Energy Requirement):
 | [Power User Cycling](https://www.youtube.com/@GPLama) | YouTube | In-depth cycling product and power data analysis (GPLama). |
 | [PySport Community](https://pysport.org/) | Web | Developers of kloppy, floodlight, and associated open-source tools. |
 | [OptaPro Blog](https://www.statsperform.com/opta/football/) | Web | Methodology articles from Opta's research team. |
+| [Only the Overs Guides](https://www.onlytheovers.com/guides) | Web | Free NFL/NHL DFS process education (bankroll, projection literacy, contest selection) with a free signup tier; process-focused, not pick locks. |
 
 ---
 
