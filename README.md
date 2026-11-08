@@ -101,6 +101,7 @@ PER = (FGM × 85.910 + Stl × 53.897 + 3PM × 51.757 + FTM × 46.845
 | [Opta / Stats Perform API](https://www.statsperform.com/opta/) | Commercial API | Industry standard for professional clubs. Useful to know the data schema even if you use free alternatives. |
 | [Hudl Statsbomb](https://statsbomb.com/) | Commercial | Best-in-class event data. Free tier limited to open data set above. |
 | WinSport Win Probability & Betting Models | Calculator | No-registration tools for sport performance projections including race predictor, heart rate zones, and recovery scores. |
+| [Calculation Hub Pace Calculator](https://calculation-hub.com/fitness/pace) | Calculator | Free distance/time arithmetic for pace, speed, splits, and finish-time estimates, with units and assumptions; not training or medical advice. |
 
 ---
 
