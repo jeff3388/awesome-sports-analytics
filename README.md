@@ -300,6 +300,7 @@ W/kg (power-to-weight ratio):
 | [Paediatric Dose Calculator — BNFc Logic](https://bnfc.nice.org.uk/) | Reference | UK National Formulary for Children. Weight-based dosing protocols for common medications. |
 | [WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards) | Dataset | International growth references 0–5 years. R and SPSS datasets available. |
 | WinSport Paediatric Calculators | Calculator | Age- and weight-based calculators for common paediatric medication doses (acetaminophen, ibuprofen) and hydration targets. For reference only — always consult a physician. |
+| [PPCSexRx](https://CRAN.R-project.org/package=PPCSexRx) | R Package | A CRAN package implementing a reproducible, GRADE-linked rule engine for sub-symptom threshold aerobic exercise (SSTAE) in adolescent persistent post-concussion symptoms (PPCS), for athletic-training education and transparent clinical reasoning. |
 
 ---
 
